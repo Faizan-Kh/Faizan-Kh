@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on MERN Stack<br>Learning Next.js<br>
+# 💫 I'm Faizan, the code conjurer:
+Hello! I'm currently diving into the world of MERN Stack development and expanding my skills with Next.js. You can find me on various social platforms, and I'm well-versed in a wide range of technologies, from C and JavaScript to React and MongoDB. Check out my GitHub for more insights into my contributions and projects!<br>
 
 
 ## 🌐 Socials:
